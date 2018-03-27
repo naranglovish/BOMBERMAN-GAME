@@ -5,6 +5,9 @@
 Author :LOVISH NARANG
 Language:  Python 3.5.3
 
+##TO RUN
+python main.py TO RUN THE GAME
+
 ##RULES:
 X - Wall
 / - Brick
