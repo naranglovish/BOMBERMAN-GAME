@@ -4,7 +4,7 @@ Author :LOVISH NARANG
 Language:  Python 3.5.3
 
 ##RUN:
-do python main.py to run the game 
+- - - - -do python main.py to run the game - - - - -
 
 ##RULES:
 X - Wall
